@@ -113,6 +113,8 @@ highlight WildMenu      guifg=Black   guibg=#ffff00 gui=bold ctermfg=Black cterm
 highlight Cursor        guifg=Black guibg=White ctermfg=Black ctermbg=White
 highlight CursorLine    guibg=#222222 guifg=NONE
 highlight CursorColumn  guibg=#222222 guifg=NONE
+highlight VertSplit     guibg=#aabbee guifg=#aabbee
+
 highlight NonText       guifg=#404040 ctermfg=8
 highlight SpecialKey    guifg=#404040 ctermfg=8
 highlight Directory     none
